@@ -513,15 +513,15 @@ img{
 }
 
 .skills__javascript{
-    width: 60%;
+    width: 80%;
 }
 
 .skills__react{
-    width: 50%;
+    width: 80%;
 }
 
 .skills__node{
-    width: 80%;
+    width: 70%;
 }
 
 .skills__php{
@@ -532,8 +532,8 @@ img{
     width: 50%;
 }
 
-.skills__firebase{
-    width: 60%;
+.skills__dotnet{
+    width: 70%;
 }
 
 .skills__figma{
@@ -596,6 +596,11 @@ img{
 
 .qualification__subtitle{
     display: inline-block;
+    font-size: var(--small-font-size);
+    margin-bottom: var(--mb-1) ;
+}
+
+.description__work{
     font-size: var(--small-font-size);
     margin-bottom: var(--mb-1) ;
 }
